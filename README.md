@@ -17,4 +17,4 @@
   在这里推荐你一个课程：https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
   学完这个之后
  ，可以学习线性规划问题推荐的几本书：《运筹学》
- 还有我的博客：http://blog.csdn.net/yin_wuzhe/article/details/52759478， 或许我的理解（认为）你也会觉得很好 换个角度来看待问题吧：）
+ 还有我的博客：http://blog.csdn.net/yin_wuzhe/article/details/52759478 ， 或许我的理解（认为）你也会觉得很好 换个角度来看待问题吧：）
